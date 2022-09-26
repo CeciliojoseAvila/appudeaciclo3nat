@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d78257a-36da-4d01-9659-df657bde4083" name="Changes" comment="Autenticación por perfiles" />
+    <list default="true" id="8d78257a-36da-4d01-9659-df657bde4083" name="Changes" comment="Autenticación por perfiles">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/img-stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/UdeA/Ciclo3/handler/CustomSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/UdeA/Ciclo3/handler/CustomSuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/UdeA/Ciclo3/security/SecConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/UdeA/Ciclo3/security/SecConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/accessDenied.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/accessDenied.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/agregarEmpleado.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/agregarEmpleado.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/agregarEmpresa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/agregarEmpresa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/agregarMovimiento.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/agregarMovimiento.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/editarEmpleado.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/editarEmpleado.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/editarEmpresa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/editarEmpresa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/editarMovimiento.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/editarMovimiento.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/verEmpleados.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/verEmpleados.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/verEmpresas.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/verEmpresas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/verMovimientos.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/verMovimientos.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +35,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -71,10 +89,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/GERMAN/Downloads/UdeA-Ciclo3Nat",
+    "last_opened_file_path": "C:/Users/GERMAN/Downloads/demo",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,6 +102,9 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GERMAN\Downloads\UdeA-Ciclo3Nat\src\main\resources\images" />
     </key>
   </component>
   <component name="RunManager">
