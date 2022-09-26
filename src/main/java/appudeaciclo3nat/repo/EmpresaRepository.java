@@ -1,6 +1,6 @@
-package com.UdeA.Ciclo3.repo;
+package appudeaciclo3nat.repo;
 
-import com.UdeA.Ciclo3.modelos.Empresa;
+import appudeaciclo3nat.modelos.Empresa;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

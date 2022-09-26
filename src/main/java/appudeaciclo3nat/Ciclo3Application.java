@@ -1,6 +1,6 @@
-package com.UdeA.Ciclo3;
+package appudeaciclo3nat;
 
-import com.UdeA.Ciclo3.modelos.Empresa;
+import appudeaciclo3nat.modelos.Empresa;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;

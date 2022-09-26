@@ -1,6 +1,6 @@
-package com.UdeA.Ciclo3.repo;
+package appudeaciclo3nat.repo;
 
-import com.UdeA.Ciclo3.modelos.MovimientoDinero;
+import appudeaciclo3nat.modelos.MovimientoDinero;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

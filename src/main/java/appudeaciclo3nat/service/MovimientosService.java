@@ -1,8 +1,7 @@
-package com.UdeA.Ciclo3.service;
+package appudeaciclo3nat.service;
 
-import com.UdeA.Ciclo3.modelos.Empleado;
-import com.UdeA.Ciclo3.modelos.MovimientoDinero;
-import com.UdeA.Ciclo3.repo.MovimientosRepository;
+import appudeaciclo3nat.modelos.MovimientoDinero;
+import appudeaciclo3nat.repo.MovimientosRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,12 +1,12 @@
-package com.UdeA.Ciclo3.controller;
+package appudeaciclo3nat.controller;
 
-import com.UdeA.Ciclo3.modelos.Empleado;
-import com.UdeA.Ciclo3.modelos.Empresa;
-import com.UdeA.Ciclo3.modelos.MovimientoDinero;
-import com.UdeA.Ciclo3.repo.MovimientosRepository;
-import com.UdeA.Ciclo3.service.EmpleadoService;
-import com.UdeA.Ciclo3.service.EmpresaService;
-import com.UdeA.Ciclo3.service.MovimientosService;
+import appudeaciclo3nat.modelos.Empleado;
+import appudeaciclo3nat.modelos.Empresa;
+import appudeaciclo3nat.modelos.MovimientoDinero;
+import appudeaciclo3nat.repo.MovimientosRepository;
+import appudeaciclo3nat.service.EmpleadoService;
+import appudeaciclo3nat.service.EmpresaService;
+import appudeaciclo3nat.service.MovimientosService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.Page;

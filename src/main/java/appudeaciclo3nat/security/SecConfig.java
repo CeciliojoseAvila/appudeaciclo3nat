@@ -1,7 +1,7 @@
-package com.UdeA.Ciclo3.security;
+package appudeaciclo3nat.security;
 
 
-import com.UdeA.Ciclo3.handler.CustomSuccessHandler;
+import appudeaciclo3nat.handler.CustomSuccessHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

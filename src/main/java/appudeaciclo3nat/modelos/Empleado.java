@@ -1,4 +1,4 @@
-package com.UdeA.Ciclo3.modelos;
+package appudeaciclo3nat.modelos;
 
 import javax.persistence.*;
 

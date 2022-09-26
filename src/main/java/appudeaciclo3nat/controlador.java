@@ -1,4 +1,4 @@
-package com.UdeA.Ciclo3;
+package appudeaciclo3nat;
 
 import org.springframework.security.oauth2.client.authentication.OAuth2AuthenticationToken;
 import org.springframework.web.bind.annotation.GetMapping;
