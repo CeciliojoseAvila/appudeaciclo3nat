@@ -1,5 +1,6 @@
 package com.UdeA.Ciclo3.handler;
 
+
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.web.DefaultRedirectStrategy;
@@ -40,7 +41,8 @@ public class CustomSuccessHandler extends SimpleUrlAuthenticationSuccessHandler 
         }
 
         if (esAdministrativo(roles)) {
-            url = "/VerEmpresas";
+            url = "/";
+
         } else if (esOperativo(roles)) {
             url = "/VerMovimientos";
         } else {

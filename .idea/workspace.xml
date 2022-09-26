@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d78257a-36da-4d01-9659-df657bde4083" name="Changes" comment="Autenticación por perfiles" />
+    <list default="true" id="8d78257a-36da-4d01-9659-df657bde4083" name="Changes" comment="actualizado para heroku act">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,13 +19,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -71,10 +79,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/GERMAN/Downloads/UdeA-Ciclo3Nat",
+    "last_opened_file_path": "C:/Users/GERMAN/Downloads/appudeaciclo3nat",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,11 +93,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/templates" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GERMAN\Downloads\UdeA-Ciclo3Nat\src\main\resources\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Ciclo3Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.UdeA.Ciclo3.Ciclo3Application" />
-      <module name="Ciclo3" />
+      <module name="appudeaciclo3nat" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.UdeA.Ciclo3.*" />
@@ -213,7 +225,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663247031866</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="actualizado para heroku">
+      <created>1664158983106</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664158983106</updated>
+    </task>
+    <task id="LOCAL-00016" summary="actualizado para heroku act">
+      <created>1664160686153</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664160686153</updated>
+    </task>
+    <task id="LOCAL-00017" summary="actualizado para heroku act">
+      <created>1664160768580</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664160768580</updated>
+    </task>
+    <task id="LOCAL-00018" summary="actualizado para heroku act">
+      <created>1664160774127</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664160774127</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +282,8 @@
     <MESSAGE value="Navegación en el area de movimientos" />
     <MESSAGE value="BASIC JDBC AUTHENTICATION" />
     <MESSAGE value="Autenticación por perfiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Autenticación por perfiles" />
+    <MESSAGE value="actualizado para heroku" />
+    <MESSAGE value="actualizado para heroku act" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualizado para heroku act" />
   </component>
 </project>
